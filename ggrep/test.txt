@@ -1,0 +1,4 @@
+This is a simple test for grepper, this grepper
+can grep well. Sometimes it may work, sometimes it may not. So lets write a
+test and make sure that the basics work. Test is something good as
+it will help us verify our work.
